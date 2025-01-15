@@ -1,0 +1,15 @@
+.titulo{
+    text-align: center;
+    margin: 3px;
+}
+
+.container{
+    text-align: center;
+}
+
+.container_botao{
+    border: 1.5px solid #000;
+    padding: 2px;
+    margin: 5px;
+    text-decoration: none !important;  
+}
