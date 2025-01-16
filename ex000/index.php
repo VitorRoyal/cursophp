@@ -3,8 +3,6 @@ include 'contato.class.php';
 
 $contato = new Contato();
 
-$contato->criarContato("teste", "teste@email.com")
-
 ?>
 
 <!DOCTYPE html>

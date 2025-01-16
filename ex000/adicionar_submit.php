@@ -12,6 +12,6 @@ if(!empty($_POST['email'])){
         echo "Email já existe!";
     }
 } else {
-    header("Location: adicionar.php");
+    header("Location: index.php");
 }
 ?>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +16,7 @@
             Email:<br/>
             <input type="email" name="email"/><br/><br/>
 
-            <input type="submit" value="Adicionar" />
+            <input type="submit" value="Adicionar"/>
 
             <button class="container_botao"><a href="index.php">Voltar</a></button>
         </div>
