@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 include 'contato.class.php';
 $contato = new Contato();
 
@@ -43,4 +43,4 @@ if(!empty($_GET['id'])){
     </form>
 </body>
 </html>
-
+ -->
